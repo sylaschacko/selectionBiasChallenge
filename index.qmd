@@ -399,7 +399,7 @@ create_statistics_meme(
 ```
 
 ```{python}
-#| label: final-meme
+#| label: final-meme1
 #| echo: false
 #| eval: true
 #| fig-cap: "Statistics meme demonstrating selection bias"
